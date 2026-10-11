@@ -1,8 +1,8 @@
 class Cloister < Formula
   desc "Privacy-oriented development environment for AI coding agents"
   homepage "https://github.com/yi427/Cloister"
-  url "https://github.com/yi427/Cloister/archive/refs/tags/v0.3.1.tar.gz"
-  sha256 "a5a52a467507a61c92cb935199e62c23af663e7155a09e9c03291defca5b1c91"
+  url "https://github.com/yi427/Cloister/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "9604b270dd0bb5adb85121e366f90edde01b45c91581fd8101f866b51ca0408c"
   license any_of: ["MIT", "Apache-2.0"]
 
   depends_on "rust" => :build
